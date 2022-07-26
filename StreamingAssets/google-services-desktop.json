@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942183266435",
+    "firebase_url": "https://spr-kingdrom-fdb-default-rtdb.firebaseio.com",
+    "project_id": "spr-kingdrom-fdb",
+    "storage_bucket": "spr-kingdrom-fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942183266435:android:62497fc33d138ffc8d43b6",
+        "android_client_info": {
+          "package_name": "com.CedarCatStudios.sqlGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942183266435-9s7pijc77n8bhnlcg56p3b48do2htjq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlq6aXZ9n4NeYvNz-WPIhw6BI4ue6IRhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942183266435-9s7pijc77n8bhnlcg56p3b48do2htjq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942183266435-utqb6h2gal42riamcof3g6nc7lrfqlsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CedarCatStudios.sqlGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
